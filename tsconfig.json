@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "allowJs": true,
+    "checkJs": true,
+    "declaration": false,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "forceConsistentCasingInFileNames": true,
+    "importHelpers": true,
+    "noEmitHelpers": true,
+    "jsx": "react",
+    "lib": ["es2018", "dom"],
+    "target": "es5",
+    "module": "es2015",
+    "esModuleInterop": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "noFallthroughCasesInSwitch": true,
+    "removeComments": true,
+    "downlevelIteration": true,
+    "resolveJsonModule": true,
+    "moduleResolution": "node"
+  }
+}
