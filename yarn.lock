@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+fp-ts@^1.15.1:
+  version "1.15.1"
+  resolved "https://registry.yarnpkg.com/fp-ts/-/fp-ts-1.15.1.tgz#d436bf011f6913237df3df5c9bf6b59f14c2f43d"
+  integrity sha512-q/J/2FrwKb1zCrXYZyKmw3QWO+JgpGPhoeMft8wpSlNEww0ucKdHEGc3sb3IuPztCuXcrHYJLNvmmbcV+JuqYA==
+
 typescript@^3.3.3333:
   version "3.3.3333"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.3.3333.tgz#171b2c5af66c59e9431199117a3bcadc66fdcfd6"
